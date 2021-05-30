@@ -33,4 +33,4 @@ have the following string representation.
 
 **0,0,1,00;1,2,1,01;2,0,3,10;3,3,3,11#0,1,2**
 
-![DFA](https://github.com/abdallahaymaan/NFA_to_DFA/blob/main/DFA.JPG)
+![DFA](https://github.com/abdallahaymaan/FallbackDFA-FDFA/blob/main/DFA.JPG)
